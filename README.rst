@@ -34,16 +34,10 @@ PyDB
 ====
 
 
-    Add a short description here!
+    extremely high-performance, scalable, secure database
 
 
-A longer description of your project goes here...
+
+This project deals with the idea of creating a database system that works with any programming language. It should be very performant and scalable as required.
 
 
-.. _pyscaffold-notes:
-
-Note
-====
-
-This project has been set up using PyScaffold 4.1.1. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
